@@ -1,4 +1,4 @@
-#include "Game.h"
+#include "Game.hpp"
 
 //private functions
 void Game::initVariables()
@@ -29,7 +29,7 @@ void Game::initFonts()
 {
    if(this->font.loadFromFile("../fonts/PixelGameFont.ttf"));
    {
-       std::cout << "ERROR : GAILED TO LOAD FONT" << std::endl;
+       std::cout << "ERROR : FAILED TO LOAD FONT" << std::endl;
    }
 }
 
