@@ -4,4 +4,4 @@ simple sfml game.
 
 
 screenshot :
-![alt text](https://github.com/Fatihcil16/SFML-Simple-Game/tree/master/images/Untitled.png?raw=true)
+![image](https://github.com/Fatihcil16/SFML-Simple-Game/blob/master/images/Untitled.png?raw=true)
